@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For LINTTL3
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+LINTTL3	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+sleep	KEYWORD2
+wakeUp	KEYWORD2
+sendLIN	KEYWORD2
+receiveLIN	KEYWORD2
+setMasterMode	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
